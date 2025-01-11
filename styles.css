@@ -7,7 +7,9 @@
   font-style: normal;
   font-display: swap;
 }
-
+a {
+    color: rgb(90, 230, 120)
+}
       body {
   color: rgb(90, 230, 59);
   background-color: black;
@@ -18,6 +20,9 @@
 }
      h1.c {
 color: rgb(166, 209, 137);
+     }
+     h6.A {
+         color: rgb(255, 0, 0);
      }
      footer {
              background-image: linear-gradient(
@@ -30,7 +35,6 @@ color: rgb(166, 209, 137);
                      hsl(240deg 100% 17%) 46%,
                      hsl(240deg 100% 20%) 53%,
                      hsl(269deg 100% 25%) 60%,
-                     hsl(298deg 100% 30%) 68%,
                      hsl(327deg 100% 35%) 75%,
                      hsl(357deg 100% 40%) 83%,
                      hsl(26deg 100% 45%) 91%,
